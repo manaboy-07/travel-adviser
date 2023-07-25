@@ -1,0 +1,23 @@
+/** @format */
+
+.container {
+  padding: 25px;
+}
+.loading {
+  height: 600px;
+
+  display: "flex";
+  justify-content: center;
+  align-items: center;
+}
+.formControl {
+    padding: 10px !important;
+   height: 30px;
+   margin-right: 10px;
+  margin-bottom: 30px;
+  width: 120px;
+}
+.list {
+  height: 75vh;
+  overflow: "auto";
+}
